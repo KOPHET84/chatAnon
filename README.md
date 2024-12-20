@@ -20,10 +20,12 @@ This is a real-time anonymous chat application built with React, Node.js, and So
 
 **Getting Started**
 -------------------
-
+1. git clone https://github.com/KOPHET84/chatAnon
+2. npm install
 ### Running the Server
 
-1. Run `node server.js` to start the server.
+1. cd server
+2. Run `node server.js` to start the server.
 
 ### Running the Client
 
